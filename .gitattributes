@@ -1,0 +1,4 @@
+AnylineXamarinApp.Droid.apk filter=lfs diff=lfs merge=lfs -text
+AnylineXamarinSDK.Droid.dll filter=lfs diff=lfs merge=lfs -text
+AnylineXamarinApp.Droid/Assets/tessdata/deu.traineddata filter=lfs diff=lfs merge=lfs -text
+AnylineXamarinApp.Droid/Assets/tessdata/eng_dict.traineddata filter=lfs diff=lfs merge=lfs -text
